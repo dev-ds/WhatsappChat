@@ -13,3 +13,5 @@ https://www.geeksforgeeks.org/whatsapp-using-python/
 https://github.com/shauryauppal/PyWhatsapp/blob/master/PyWhatsapp.py
 
 They also talk about scheduling the code so send messages at specific timings. 
+
+The Original code currently i'm running is schedulled to run every morning to send a random Quote Image from a list I collected specifically to send my wife. you can do it too. Next i'm trying is a chat bot.
